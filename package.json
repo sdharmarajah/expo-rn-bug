@@ -75,6 +75,7 @@
     "expo-system-ui": "~2.9.4",
     "expo-tracking-transparency": "^3.3.0",
     "expo-updates": "~0.24.13",
+    "expo-video": "^2.0.6",
     "i18next": "^22.5.1",
     "lodash.memoize": "^4.1.2",
     "moti": "^0.28.1",
