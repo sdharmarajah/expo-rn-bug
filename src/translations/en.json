@@ -1,0 +1,123 @@
+{
+  "language": {
+    "selectLanguage": "Select Language",
+    "select": "Select"
+  },
+  "registerFirst": {
+    "change": "Change",
+    "enterPhone": "Enter Your Phone Number",
+    "nextButton": "Next",
+    "phoneText": "By entering your number you can log in or create an account",
+    "warningText": "By registering, you grant Atlas Axillia permission to send you marketing and other related communications",
+    "phoneTextError": "Please enter a valid 9-digit phone number.",
+    "loading": "Loading...",
+    "privacyPolicy": "Privacy Policy",
+    "privacyPolicyv2-1": "By continuing, you agree to our",
+    "privacyPolicyv2-2": "Terms",
+    "privacyPolicyv2-3": "Privacy Policy",
+    "privacyPolicyv2-4": "and",
+    "privacyPolicyv2-5": "Cookies Policy",
+    "privacyPolicyv2-6": ""
+  },
+  "registerSecond": {
+    "nameTitle": "What is your name?",
+    "fullName": "Full Name",
+    "nextButton": "Next"
+  },
+  "registerThird": {
+    "emailTitle": "What is your email address,",
+    "nextButton": "Next",
+    "email": "Email"
+  },
+  "registerFourth": {
+    "bottomSheetTitle": "Select your district",
+    "confirmButton": "Confirm",
+    "districtTitle": "Please select your district",
+    "nextButton": "Next",
+    "placeholder": "Select district"
+  },
+  "registerFifth": {
+    "addButton": "Add Profile Picture",
+    "skipButton": "Skip for now",
+    "title": "Would you like to add a profile picture?"
+  },
+  "registerLast": {
+    "continue": "Continue",
+    "welcome": "Welcome",
+    "welcomeText": "You have successfully created your profile",
+    "congratulations": "Congratulations!"
+  },
+  "registerOtp": {
+    "enterOtp": "Enter the 4-digit code",
+    "nextButton": "Next",
+    "otpText": "Sent to you at +94",
+    "resendButton": "Resend Code"
+  },
+  "tabbar": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "settings": "Settings",
+    "profile": "Profile"
+  },
+  "home": {
+    "welcome": "Welcome !",
+    "start_mixing": "Start Mixing"
+  },
+  "step_two": {
+    "select": "Select Your Background",
+    "next": "Next"
+  },
+  "step_three": {
+    "select": "Select Your Music",
+    "next": "Next",
+    "generating_video": "Submitting Data..."
+  },
+  "loading": {
+    "one": "Analyzing image...",
+    "two": "Processing image...",
+    "three": "Adding Music...",
+    "four": "Generating Video..."
+  },
+  "error": {
+    "title": "Error!",
+    "main": "Video Generation Failed !",
+    "guide": "Please take a picture of a human-like character",
+    "restart": "Restart",
+    "quick_tips": "Quick Tips",
+    "guide_1": "Make sure the image is centered",
+    "guide_2": "Make sure the image is focused/not blur"
+  },
+  "settings": {
+    "user_profile": "User Profile",
+    "language": "Language",
+    "tutorial": "Tutorial",
+    "hey": "Hey,",
+    "signout": "Sign Out",
+    "confirmLogout": "Confirm Sign Out",
+    "confirmLogoutText": "Do you really want to sign out?",
+    "delete_account": "Delete Account",
+    "delete_account_modal_title": "We Would love to hear your ideas and suggestions",
+    "enter_your_feedback": "Enter your feedback",
+    "send": "Send",
+    "close": "Close"
+  },
+  "personal_details": {
+    "title": "Personal Details",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "districtPlaceholder": "District",
+    "parentFullNamePlaceholder": "Parent's Full Name",
+    "childDobPlaceholder": "Child's Date of Birth",
+    "success": "Your details have been updated successfully",
+    "childDob": "Child's Date of Birth",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "video": {
+    "title": "Nicely Done!",
+    "subtitle": "Enjoy The Video",
+    "share": "Share",
+    "restart": "Restart"
+  }
+}

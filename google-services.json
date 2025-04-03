@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285408467389",
+    "project_id": "craft-buddies",
+    "storage_bucket": "craft-buddies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285408467389:android:c89c0cec4083e37b72dad4",
+        "android_client_info": {
+          "package_name": "com.atlas.craftbuddies2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJnLNwFHhaoYNxl1uaxu6GZC4A0fEe6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,122 @@
+{
+  "language": {
+    "selectLanguage": "භාෂාව තෝරන්න",
+    "select": "තෝරන්න"
+  },
+  "registerFirst": {
+    "change": "වෙනස් කරන්න",
+    "enterPhone": "ඔබේ දුරකථන අංකය ඇතුළත් කරන්න",
+    "nextButton": "ඉදිරියට",
+    "phoneText": "දුරකථන අංකය ඇතුළත් කිරීමෙන් ගිණුමට පිවිසීමට හෝ නව ගිණුමක් නිර්මාණය කිරීමට හැකියාව ඇත.",
+    "warningText": "දත්ත ඇතුළත් කිරීම මඟින්, ඔබේ නිර්මාණශීලීත්වය atlas axillia හි වාණිජමය අරමුණු වෙනුවෙන් භාවිතා කිරීමට ඔබ අවසර ලබා දෙනු ඇත.",
+    "phoneTextError": "අංක 9කින් හෙබි වලංගු දුරකථන අංකයක් ඇතුළත් කිරීමට කාරුණික වන්න.",
+    "loading": "Loading...",
+    "privacyPolicy": "ප්‍රතිපත්ති ප්‍රකාශය",
+    "privacyPolicyv2-1": "ඉදිරියට යාමෙන් ඔබ අපේ",
+    "privacyPolicyv2-2": "සේවා ගිවිසුම්",
+    "privacyPolicyv2-3": "රහස්‍ය ප්‍රතිපත්තිය",
+    "privacyPolicyv2-4": "සහ",
+    "privacyPolicyv2-5": "දත්ත ප්‍රතිපත්තිය",
+    "privacyPolicyv2-6": "සමග එකඟ වනු ඇත."
+  },
+  "registerSecond": {
+    "nameTitle": "ඔබේ නම කුමක්ද?",
+    "fullName": "සම්පූර්ණ නම",
+    "nextButton": "ඉදිරියට"
+  },
+  "registerThird": {
+    "emailTitle": "ඔබේ ඊ-මේල් ලිපිනය කුමක්ද?",
+    "nextButton": "ඉදිරියට",
+    "email": "ඊ-මේල්"
+  },
+  "registerFourth": {
+    "bottomSheetTitle": "ඔබේ දිස්ත්‍රික්කය තෝරන්න",
+    "confirmButton": "තහවුරු කරන්න",
+    "districtTitle": "කරුණාකර ඔබේ දිස්ත්‍රික්කය තෝරන්න",
+    "nextButton": "ඉදිරියට",
+    "placeholder": "දිස්ත්‍රික්කය තෝරන්න"
+  },
+  "registerFifth": {
+    "addButton": "ගිණුමට පින්තූරයක් එකතු කරන්න",
+    "skipButton": "දැනට අවශ්‍ය නැත",
+    "title": "ඔබේ ගිණුමට පින්තූරයක් එකතු කිරීමට කැමතිද?"
+  },
+  "registerLast": {
+    "continue": "ඉදිරියට යන්න",
+    "welcome": "ආයුබෝවන්",
+    "welcomeText": "ඔබේ ගිණුම සාර්ථකව නිර්මාණය වී අවසන්.",
+    "congratulations": "සුබ පැතුම්!"
+  },
+  "registerOtp": {
+    "enterOtp": "අංක 4හි කේතය ඇතුළත් කරන්න",
+    "nextButton": "ඉදිරියට",
+    "otpText": " ඔබේ +94 අංකයට එවා ඇත",
+    "resendButton": "නැවත එවන්න"
+  },
+  "tabbar": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "settings": "Settings",
+    "profile": "Profile"
+  },
+  "home": {
+    "welcome": "ආයුබෝවන්!",
+    "start_mixing": "මික්ස් කරන්න පටන් ගන්න"
+  },
+  "step_two": {
+    "select": "ඔබේ පසුබිම තෝරාගන්න",
+    "next": "ඉදිරියට"
+  },
+  "step_three": {
+    "select": "ඔබ කැමති සංගීතය තෝරාගන්න",
+    "next": "ඉදිරියට",
+    "generating_video": "දත්ත ඉදිරිපත් කරමින් පවතී..."
+  },
+  "loading": {
+    "one": "පින්තූරය විශ්ලේෂණය කරමින් පවතී...",
+    "two": "පින්තූරය සැකසෙමින් පවතී...",
+    "three": "සංගීතය එකතු වෙමින් පවතී...",
+    "four": "වීඩියෝව නිර්මාණය වෙමින් පවතී..."
+  },
+  "error": {
+    "title": "වැරදීමක්!",
+    "main": "වීඩියෝ නිර්මාණය අසාර්ථකයි!",
+    "guide": "කරුණාකර මිනිස් රූපයකට සමාන පින්තූරයක් තෝරාගන්න",
+    "restart": "නැවත පටන් ගන්න",
+    "quick_tips": "ක්ෂණික ඉඟි",
+    "guide_1": "පින්තූරය මධ්‍යස්ථව ඇති බවට තහවුරු කර ගන්න",
+    "guide_2": "පින්තූරය පැහැදිලිව සහ බොඳ වී නොමැති බවට තහවුරු කරගන්න."
+  },
+  "settings": {
+    "user_profile": "ගිණුම",
+    "language": "භාෂාව",
+    "tutorial": "උපකාරක",
+    "hey": "හෙලෝ,",
+    "signout": "ඉවත් වන්න",
+    "confirmLogout": "ඉවත් වීම තහවුරු කරන්න",
+    "confirmLogoutText": "ඔබට නිසැකවම ඉවත් වීමට අවශ්‍යද?",
+    "delete_account": "Delete Account",
+    "delete_account_modal_title": "We Would love to hear your ideas and suggestions",
+    "enter_your_feedback": "Enter your feedback",
+    "send": "Send",
+    "close": "Close"
+  },
+  "personal_details": {
+    "title": "පුද්ගලික තොරතුරු",
+    "name": "සම්පූර්ණ නම",
+    "email": "ඊ-මේල් ලිපිනය",
+    "phone": "දුරකථන අංකය",
+    "save": "සේව් කරන්න",
+    "cancel": "කැන්සල් කරන්න",
+    "districtPlaceholder": "දිස්ත්‍රික්කය",
+    "parentFullNamePlaceholder": "මවගේ/පියාගේ සම්පූර්ණ නම",
+    "childDobPlaceholder": "දරුවාගේ උපන් දිනය",
+    "success": "Your details have been updated successfully"
+  },
+  "video": {
+    "title": "සාර්ථකව නිමා කර ඇත!",
+    "subtitle": "වීඩියෝව රස විඳින්න",
+    "share": "ෂෙයා කරන්න",
+    "restart": "නැවත පටන් ගන්න"
+  }
+}

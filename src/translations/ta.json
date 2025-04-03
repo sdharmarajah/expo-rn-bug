@@ -1,0 +1,122 @@
+{
+  "language": {
+    "selectLanguage": "மொழியை தேர்வு செய்க",
+    "select": "தேர்வு செய்க"
+  },
+  "registerFirst": {
+    "change": "மாற்றுக",
+    "enterPhone": "உங்கள் கைபேசி எண்ணை உள்ளிடுக",
+    "nextButton": "அடுத்து",
+    "phoneText": "உங்கள் எண்ணை உள்ளிட்டு நீங்கள் உள்நுழையலாம் அல்லது புதிய கணக்கு தொடங்கலாம்",
+    "warningText": "உங்கள் தகவல்களை உள்ளிடுவதன் மூலம் உங்கள் படைப்பை மார்கெட்டிங் பொருளாக பயன்படுத்த அட்லஸ் ஆக்ஸிலியாவிற்கு அனுமதி கொடுக்கிறீர்கள்",
+    "phoneTextError": "தயவுசெய்து செல்லத்தக்க 9 இலக்க கைபேசி எண்ணை உள்ளிடவும்.",
+    "loading": "லோடிங்...",
+    "privacyPolicy": "தனியுரிமை கொள்கை",
+    "privacyPolicyv2-1": "இதனை தொடர்வதன் மூலம், எங்கள்",
+    "privacyPolicyv2-2": "விதிமுறைகள்",
+    "privacyPolicyv2-3": "தனியுரிமை கொள்கை",
+    "privacyPolicyv2-4": "மற்றும்",
+    "privacyPolicyv2-5": "குக்கீகள் கொள்கை",
+    "privacyPolicyv2-6": "ஆகியவற்றை ஏற்கிறீர்கள்."
+  },
+  "registerSecond": {
+    "nameTitle": "உங்கள் பெயர் என்ன?",
+    "fullName": "முழுப்பெயர்",
+    "nextButton": "அடுத்து"
+  },
+  "registerThird": {
+    "emailTitle": "உங்களுடைய மின்னஞ்சல் முகவரி என்ன,",
+    "nextButton": "அடுத்து",
+    "email": "மின்னஞ்சல்"
+  },
+  "registerFourth": {
+    "bottomSheetTitle": "உங்கள் மாவட்டத்தை தேர்வு செய்க",
+    "confirmButton": "உறுதி செய்க",
+    "districtTitle": "தயவுசெய்து உங்கள் மாவட்டத்தை தேர்வு செய்க",
+    "nextButton": "அடுத்து",
+    "placeholder": "மாவட்டத்தை தேர்வு செய்க"
+  },
+  "registerFifth": {
+    "addButton": "சுயவிவரப் படத்தை சேர்க்க",
+    "skipButton": "இப்போதைக்கு தவிர்க்கவும்",
+    "title": "நீங்கள் சுயவிவரப் படத்தை சேர்க்க விரும்புகிறீர்களா?"
+  },
+  "registerLast": {
+    "continue": "தொடரவும்",
+    "welcome": "வணக்கம்",
+    "welcomeText": "நீங்கள் உங்கள் சுயவிவரத்தை வெற்றிகரமாக உருவாக்கிவிட்டீர்கள்",
+    "congratulations": "வாழ்த்துக்கள்!"
+  },
+  "registerOtp": {
+    "enterOtp": "4 இலக்க குறியீட்டை உள்ளிடவும்",
+    "nextButton": "அடுத்து",
+    "otpText": "+94 இல் உங்களுக்கு அனுப்பப்பட்டுள்ளது",
+    "resendButton": "குறியீடை மீண்டும் அனுப்பவும்"
+  },
+  "tabbar": {
+    "home": "முகப்பு",
+    "gallery": "கேலரி",
+    "settings": "அமைப்புகள்",
+    "profile": "சுயவிவரம்"
+  },
+  "home": {
+    "welcome": "வணக்கம்!",
+    "start_mixing": "கலக்க தொடங்கவும்"
+  },
+  "step_two": {
+    "select": "உங்கள் பின்னணியை தேர்வு செய்க",
+    "next": "அடுத்து"
+  },
+  "step_three": {
+    "select": "உங்கள் இசையை தேர்வு செய்க",
+    "next": "அடுத்து",
+    "generating_video": "தரவு சமர்ப்பிக்கப்படுகிறது..."
+  },
+  "loading": {
+    "one": "படம் ஆய்வு செய்யப்படுகிறது...",
+    "two": "படம் செயலாக்கப்படுகிறது...",
+    "three": "இசை சேர்க்கப்படுகிறது...",
+    "four": "காணொளி உருவாக்கப்படுகிறது..."
+  },
+  "error": {
+    "title": "பிழை!",
+    "main": "காணொளி உருவாக்கம் தோல்வியடைந்தது!",
+    "guide": "தயவுசெய்து மனிதரை போன்ற ஒரு படத்தை எடுக்கவும்",
+    "restart": "மீண்டும் தொடங்கவும்",
+    "quick_tips": "விரைவான குறிப்புகள்",
+    "guide_1": "படம் மையமாக இருப்பதை உறுதிப்படுத்தவும்",
+    "guide_2": "படம் தெளிவாக/மங்கலாக இல்லாமல் உள்ளதா என உறுதிப்படுத்தவும்"
+  },
+  "settings": {
+    "user_profile": "பயனாளர் சுயவிவரம்",
+    "language": "மொழி",
+    "tutorial": "பயிற்சி",
+    "hey": "ஹே,",
+    "signout": "வெளியேறு",
+    "confirmLogout": "வெளியேறுவதை உறுதி செய்க",
+    "confirmLogoutText": "நீங்கள் உண்மையாகவே வெளியேற விரும்புகிறீர்களா?",
+    "delete_account": "Delete Account",
+    "delete_account_modal_title": "We Would love to hear your ideas and suggestions",
+    "enter_your_feedback": "Enter your feedback",
+    "send": "Send",
+    "close": "Close"
+  },
+  "personal_details": {
+    "title": "சுயவிவர விவரங்கள்",
+    "name": "முழுப்பெயர்",
+    "email": "மின்னஞ்சல் முகவரி",
+    "phone": "தொலைபேசி எண்",
+    "save": "சேமிக்கவும்",
+    "cancel": "ரத்து செய்யவும்",
+    "success": "Your details have been updated successfully",
+    "districtPlaceholder": "மாவட்டம்",
+    "parentFullNamePlaceholder": "பெற்றோரின் முழுப் பெயர்",
+    "childDobPlaceholder": "குழந்தையின் பிறந்த தேதி"
+  },
+  "video": {
+    "title": "நன்றாக முடிந்தது!",
+    "subtitle": "காணொளியை மகிழ்ச்சியாக காணுங்கள்",
+    "share": "பகிரவும்",
+    "restart": "மீண்டும் தொடங்கவும்"
+  }
+}
