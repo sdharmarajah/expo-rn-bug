@@ -1,4 +1,5 @@
-import { ResizeMode, Video, Audio } from 'expo-av';
+import { ResizeMode, Audio } from 'expo-av';
+import { useVideoPlayer, VideoView } from "expo-video";
 import * as FileSystem from 'expo-file-system';
 import { router, useFocusEffect } from 'expo-router';
 import * as Sharing from 'expo-sharing';
@@ -14,8 +15,6 @@ import {
   View,
   Button,
 } from 'react-native';
-
-import { useGenerateVideoStore } from '@/core/stores/video';
 import { useTranslation } from 'react-i18next';
 
 const { width, height } = Dimensions.get('window');
@@ -25,7 +24,11 @@ export default function VideoPage() {
   const video = useRef(null as any);
   const sound = useRef(new Audio.Sound()); // ✅ added
   const video_url =
-    'https://atlasworld.blob.core.windows.net/event2/4f6e6311-3ff9-42d4-9627-8b40a3a5b7b9/animation.mp4';
+      "https://firebasestorage.googleapis.com/v0/b/cudlee-c6d3d.appspot.com/o/animation.mp4?alt=media&token=ec7f05e0-27e8-4c15-b760-b10ae2f50ad4";
+  const player = useVideoPlayer(video_url, (player) => {
+    player.loop = true;
+    player.play();
+  });
   const { t } = useTranslation();
   const [isVideoReady, setIsVideoReady] = useState(false);
 
@@ -105,36 +108,12 @@ export default function VideoPage() {
         <Text style={styles.question}>{t('video.subtitle')}</Text>
       </View>
 
-      <Video
+      <VideoView
         ref={video}
         style={styles.video}
-        source={{
-          uri: video_url ?? '',
-        }}
-        useNativeControls
-        resizeMode={ResizeMode.CONTAIN}
-        isLooping
-        onReadyForDisplay={handleVideoReady}
-        shouldPlay
-        onLoad={async () => {
-          video.current?.playAsync();
-
-          if (Platform.OS === 'ios') {
-            try {
-              await Audio.setAudioModeAsync({
-                allowsRecordingIOS: false,
-                playsInSilentModeIOS: true,
-              });
-
-              await sound.current.loadAsync(
-                require('../../../../assets/silent.mp3'),
-                { shouldPlay: true }
-              );
-            } catch (error) {
-              console.warn('iOS Audio setup failed:', error);
-            }
-          }
-        }}
+        player={player}
+        allowsFullscreen
+        allowsPictureInPicture
       />
 
       <View>

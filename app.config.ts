@@ -75,6 +75,13 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     'expo-tracking-transparency',
     'expo-router',
     [
+      "expo-video",
+      {
+        "supportsBackgroundPlayback": true,
+        "supportsPictureInPicture": true
+      }
+    ],
+    [
       'expo-build-properties',
       {
         android: {
